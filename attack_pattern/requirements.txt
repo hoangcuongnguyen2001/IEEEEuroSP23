@@ -2,7 +2,7 @@ numpy
 transformers==v3.1.0
 tqdm
 torch
-sklearn
+scikit-learn
 spacy
 torchtext
 pandas
