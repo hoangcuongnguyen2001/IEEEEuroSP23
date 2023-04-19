@@ -32,7 +32,7 @@ blis==0.7.9
        sentence-transformers==1.2.1
        sentencepiece==0.1.98
        six==1.16.0
-       smartopen==6.3.0
+       smart-open==6.3.0
        spacy==3.5.2
        spacy-legacy==3.0.12
        spacy-loggers==1.0.4
